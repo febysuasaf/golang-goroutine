@@ -35,4 +35,4 @@ go Displaynumber(i) yaitu perintah proses concurrency (multithreds) yang akan me
 ### Berikut Hasil dari testing goroutine :
 ![alt text](https://github.com/febysuasaf/golang-goroutine/blob/main/hasil_run.png)
 
-#### DAri hasil tersebut kita lihat number yang sudah kita looping tidak berurutan dikarenakan proses tersebut dilakukan secara bersamaan namun dengan mesin yang berbeda (cpu/engine)
+#### Dari hasil tersebut kita lihat number yang sudah kita looping tidak berurutan dikarenakan proses tersebut dilakukan secara bersamaan namun dengan mesin yang berbeda (cpu/engine)
