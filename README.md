@@ -30,7 +30,7 @@ func TestDisplayNumber(t *testing.T) {
 **Func DisplayNumber** adalah function menampilkan text Display Number dengan menyisipkan variable number yang akan dipanggil oleh goroutine.
 
 **Func TestDisplayNumber** adalah function main atau function utama yang akan menampung testing goroutine dengan metode looping number yang dimana terdapat perintah
-go Displaynumber(i) yaitu perintah proses concurrency (multithreds) yang akan menjalankan peroses kinerja atau perintah mana yang akan terselesaikan secara acak (yang pertama selesai).
+go Displaynumber(i) yaitu perintah proses concurrency (multithreads) yang akan menjalankan peroses kinerja atau perintah mana yang akan terselesaikan secara acak (yang pertama selesai).
 
 ### Berikut Hasil dari testing goroutine :
 ![alt text](https://github.com/febysuasaf/golang-goroutine/blob/main/hasil_run.png)
