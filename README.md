@@ -1,6 +1,8 @@
 # golang-goroutine
 ## Membuat Test Goroutine dengan perintah go (function)
 
+**Goroutine** merupakan salah satu bagian paling penting dalam concurrent programming di Go. Salah satu yang membuat goroutine sangat istimewa adalah eksekusi-nya dijalankan di multi core processor. Kita bisa tentukan berapa banyak core yang aktif, makin banyak akan makin cepat.
+
 Buat Project Golang Baru dan 1 file berikut :
 > goroutine_test.go
 ```go
